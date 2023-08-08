@@ -1,5 +1,5 @@
 # portfolio
-Portfolio-application and software tester to be
+Portfolio - application and software tester to be
 # About me
 My name is Agata Wiśniewska. Recently I have started to interest of applications and software testing. I'd like to develop my technical skills and the knowlage of testing. My goal is to make change of my professional field towards testing.
 # Tools
