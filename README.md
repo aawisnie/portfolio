@@ -23,7 +23,7 @@ My name is Agata Wiśniewska. Recently I have started to interest of application
   - Software testing
   - Application testing
   - Creating test cases
-  - Creating test automation
+  - Creating automation test
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
   - Creating diagrams and decision tables
@@ -35,12 +35,12 @@ My name is Agata Wiśniewska. Recently I have started to interest of application
 # Courses
   - Tester Oprogramowania WSIZ Rzeszów 2022-2023
 
-# My test case examples
- - in process
-# My bug reports
- - in process
-# My examples of diagrams and decision tables
- - in process
-# My projects
- - in process
- 
+# My simple test case
+ - https://docs.google.com/spreadsheets/d/1KAOIvzSrhGdwdUUDErB7MWTrv1mGa_rs/edit?usp=drive_link&ouid=112931313248167018300&rtpof=true&sd=true
+# My simple run test and report
+ - https://docs.google.com/spreadsheets/d/1O13uON6Zuhyyv_MXjG4bJVy-hQjX47t-/edit?usp=drive_link&ouid=112931313248167018300&rtpof=true&sd=true
+# My projects - application test
+ - https://drive.google.com/file/d/1M0iz6ztYV0OJsfEw9B7QA7DYgY-QqCTS/view?usp=drive_link
+# My projects - manual and automation test
+ - https://drive.google.com/file/d/1dSNlzW_2BdVxgD06bhaVOkocMBIkbDS_/view?usp=drive_link
+ - https://drive.google.com/file/d/1R_x_1GfOp-b8wcCdbuYX6789MU8Z9Lxe/view?usp=drive_link
