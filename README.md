@@ -3,7 +3,7 @@ Portfolio - application and software tester to be
 # About me
 My name is Agata Wiśniewska. Recently I have started to interest of applications and software testing. I'd like to develop my technical skills and the knowlage of testing. My goal is to make change of my professional field towards testing.
 # Tools
-  - [Greenshot](https://getgreenshot.org/) - Screen capture tool
+  - [LibreOffice](https://www.libreoffice.org/) - Open Source Software, freely available, fully-featured office productivity suite
   - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
   - [Asana](https://app.asana.com/) - Issue tracking and project management tool for developers
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
@@ -13,21 +13,25 @@ My name is Agata Wiśniewska. Recently I have started to interest of application
   - [BPMN](https://bpmn.io/) - Business Process Model and Notation diagrams
   - [Airtable](https://airtable.com/) - software that combine the flexibility of spreadsheets with the power of databases
   - [MIRO](https://miro.com/pl/online-whiteboard/) - online whiteboard to multiusage
+  - [Greenshot](https://getgreenshot.org/) - Screen capture tool
   - [Teams](https://teams.microsoft.com/) - Software for meetings and documentation share
   - [Google Workspace](https://workspace.google.com/) - Collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms, Sites, and more
   - Github
-  - 
+    
 # Tech skills
   - SCRUM
   - Software testing
   - Application testing
   - Creating test cases
-  - Creating automated tests
+  - Creating test automation
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
   - Creating diagrams and decision tables
+  - Documentation
+    
 # Certificates
   - [ISTQB] - in process
+    
 # Courses
   - Tester Oprogramowania WSIZ Rzeszów 2022-2023
 
